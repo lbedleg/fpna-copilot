@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+matplotlib
+streamlit
+python-dateutil
+pytest
+fpdf2
